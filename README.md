@@ -1,5 +1,6 @@
 # CODTECH---Task-2
 Quiz Application
+
 **Name:** Hazeena S  
 **Company:** CODETECH IT SOLUTIONS  
 **ID:** CT08TDS1597  
