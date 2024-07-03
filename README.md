@@ -1,4 +1,4 @@
-# CODETECH---Task-2
+# CODTECH---Task-2
 Quiz Application
 ## Quiz Application Overview
 
