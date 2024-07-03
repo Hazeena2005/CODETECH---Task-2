@@ -4,6 +4,8 @@ Quiz Application
 
 ### Overview
 The Quiz Application is an interactive web-based quiz platform where users can test their knowledge by answering multiple-choice questions. The application guides the user through a series of questions, provides immediate feedback on each answer, and displays the final score at the end of the quiz. The project features a visually engaging interface with animations and smooth transitions to enhance the user experience.
+![Screenshot 2024-07-03 215111](https://github.com/Hazeena2005/CODETECH---Task-2/assets/174039138/2e9ade20-a6e6-4248-b62f-cbd0356ccb86)
+
 
 ### Key Activities
 1. **Start the Quiz**:
