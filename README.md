@@ -1,5 +1,11 @@
 # CODTECH---Task-2
 Quiz Application
+**Name:** Hazeena S  
+**Company:** CODETECH IT SOLUTIONS  
+**ID:** CT08TDS1597  
+**Domain:** FrontEnd Web Development  
+**Duration:** June to July 2024  
+**Mentor:** G. SRAVANI
 ## Quiz Application Overview
 
 ### Overview
